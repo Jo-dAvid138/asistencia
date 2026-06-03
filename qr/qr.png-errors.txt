@@ -1,0 +1,1394 @@
+2026-05-30 23:56:06: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-30 23:56:52: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-30 23:58:18: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-30 23:58:53: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:27:39: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:32:15: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:34:29: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:35:55: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:38:11: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:41:20: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:47:42: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:51:41: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_25_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_25_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_25_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_25_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_25_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_25_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_25_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_25_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:52:18: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_21_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_21_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_21_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_21_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_21_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_21_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_21_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_21_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:53:48: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_21_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_21_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_21_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_21_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_21_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_21_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_21_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_21_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 01:56:58: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:00:50: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:05:31: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:06:52: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:08:42: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:09:22: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:16:48: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 02:25:15: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 03:46:39: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 03:49:18: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:00:02: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:41:34: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:42:01: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:45:24: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:45:50: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:45:51: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:45:55: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:45:56: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 04:48:37: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 15:23:51: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 16:11:35: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 16:52:21: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 18:01:36: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 21:23:13: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 21:27:50: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-05-31 21:38:20: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+2026-06-01 00:55:44: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\frame_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_0\mask_29_0.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_1\mask_29_1.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_2\mask_29_2.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_3\mask_29_3.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_4\mask_29_4.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_5\mask_29_5.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_6\mask_29_6.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\Asistencia\qr\cache\mask_7\mask_29_7.dat): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\Asistencia\qr\qrmask.php</b> on line <b>155</b><br />
